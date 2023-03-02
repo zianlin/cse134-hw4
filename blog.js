@@ -73,6 +73,7 @@ function onEditPressed(id) {
             updateList();
         }
     }
+}
 
 function onDeletePressed(id) {
     deleteDialog.showModal();

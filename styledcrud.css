@@ -18,10 +18,6 @@ h1 {
     list-style-type: none;
 }
 
-#blog_post_list li {
-
-}
-
 #blog_post_list .blog-title {
     font-weight: bold;
     font-size: 1.5rem;
