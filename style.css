@@ -143,6 +143,7 @@ iframe {
 
     img.flex-child-promos {
         width: 500px;
+        border-radius: 10px;
         justify-content: center;
     }
 }
@@ -162,6 +163,7 @@ iframe {
 
     img.flex-child-promos {
         width: 500px;
+        border-radius: 10px;
     }
 }
 
@@ -188,6 +190,8 @@ iframe {
 
     img.flex-child-promos {
         max-width: 650px;
+        margin-right: 20px;
+        border-radius: 10px;
         height: auto;
     }
 }
